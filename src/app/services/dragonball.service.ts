@@ -9,6 +9,7 @@ const loadFromLocalStorage = (): Hero[] => {
 @Injectable({
   providedIn: 'root',
 })
+//TEST
 export class DragonballService {
   heroes = signal<Hero[]>(loadFromLocalStorage());
 
