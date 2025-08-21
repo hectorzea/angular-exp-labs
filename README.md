@@ -1,6 +1,8 @@
 # MyFirstAppAngular
 
-App creada con fines de investigacion para entender el framework de angular en sus ultimas versiones - Primer Proyect
+App creada con fines de investigacion para entender el framework de angular en sus ultimas versiones - Primer Proyecto
+
+Se aprendio lo basico de los signals, creacion de componentes y rutajes sencillos, tambien servicios sencillos y guardado de data en localstorage
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
